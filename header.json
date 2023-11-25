@@ -51,5 +51,18 @@
     "◆26",
     "◆27",
     "?"
+  ],
+  "course":[
+    [
+      {"name":"第一回 今を創る者",
+        "constraint":["grade_mirror","gauge_lr2"],
+        "charts":[
+          {"title":"∀77∀H7∀Λ","subtitle":"[Plus One for 7key]","artist":"しるい / obj:今を起きる人","sha256":"d4c80f29f2633b588715c2d1246c7662a9e104d86a76c17e11c795b18f2d4037"},
+          {"title":"A_I_R_F_O_R_C_E","subtitle":"[Plus One for 7key]","artist":"しるい / obj:今を起きる人","sha256":"80523c8735ddd6c176cc21ffa61d5b23571d374df2f728a997e6350faa1941f9"},
+          {"title":"mojavuda","subtitle":"[Plus One for 7key]","artist":"Dinger Box / obj:今を起きる人","sha256":"ed17221c5acc04ef27724e19cc184c4d3db72253aeb738251b26dd66984b8d58"},
+          {"title":"rust memories","subtitle":"[for beatoraja] [Plus One for 7key]","artist":"Dinger Box vs celtix / obj:今を起きる人","sha256":"6978b55b1ff1f739c1d4a934a9a7a21f8bbdc9a8cde63142e0ff850daa3dc8df"}
+        ]
+      }
+    ]
   ]
 }
